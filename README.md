@@ -1,8 +1,5 @@
 # 🏥 Hospital Management System
 
-[![GitHub](https://img.shields.io/badge/GitHub-dnyaneshwari2309-black?logo=github)](https://github.com/dnyaneshwari2309)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dnyaneshwari%20Sonawane-blue?logo=linkedin)](https://www.linkedin.com/in/dnyaneshwari-sonawane-7b8a04243/)
-
 A Python + MySQL CLI application to digitize and manage patient records for healthcare staff.
 
 ---
@@ -108,9 +105,9 @@ python main.py
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║           HOSPITAL MANAGEMENT SYSTEM                    ║
-║           Developed by Dnyaneshwari Sonawane            ║
-║           DYPCOEI, SPPU, Pune                           ║
+║           HOSPITAL MANAGEMENT SYSTEM                     ║
+║           Developed by Dnyaneshwari Sonawane             ║
+║           DYPCOEI, SPPU, Pune                            ║
 ╚══════════════════════════════════════════════════════════╝
 
   MAIN MENU
@@ -173,6 +170,5 @@ DYPCOEI, SPPU, Pune
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dnyaneshwari2309)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dnyaneshwari-sonawane-7b8a04243/)
+[![GitHub](https://img.shields.io/badge/GitHub-dnyaneshwari2309-black?logo=github)](https://github.com/dnyaneshwari2309)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dnyaneshwari%20Sonawane-blue?logo=linkedin)](https://www.linkedin.com/in/dnyaneshwari-sonawane-7b8a04243/))
