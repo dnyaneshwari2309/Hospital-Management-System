@@ -1,7 +1,7 @@
 -- ============================================================
 -- Hospital Management System - Database Schema
--- Author : Omkar Avasarkar
--- College : SRCOE, SPPU, Pune
+-- Author : Dnyaneshwari Sonawane
+-- College : DYPCOEI, SPPU, Pune
 -- Description : Normalized relational schema (3NF) covering
 --               patients, doctors, appointments, medical history
 -- ============================================================
