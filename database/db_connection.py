@@ -1,9 +1,9 @@
 """
 db_connection.py
 ----------------
-Author  : Omkar Avasarkar
-College : SRCOE, SPPU, Pune
-GitHub  : https://github.com/omkar22A
+Author  : Dnyaneshwari  Sonawane
+College : DYPCOEI, SPPU, Pune
+GitHub  : https://github.com/dnyaneshwari2309
 
 Handles MySQL connection using environment variables so
 credentials are never hardcoded in source files.
