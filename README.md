@@ -45,7 +45,7 @@ Interface	CLI
 Config	python-dotenv
 ⚙️ Setup & Run
 1. Clone the repo
-git clone https://github.com/omkar22A/hospital-management-system.git
+git clone https://github.com/dnyaneshwari2309/hospital-management-system.git
 cd hospital-management-system
 2. Install dependencies
 pip install -r requirements.txt
@@ -60,8 +60,8 @@ python main.py
 📸 CLI Preview
 ╔══════════════════════════════════════════════════════════╗
 ║           HOSPITAL MANAGEMENT SYSTEM                     ║
-║           Developed by Omkar Avasarkar                   ║
-║           SRCOE, SPPU, Pune                              ║
+║           Developed by Dnyaneshwari Sonawane                   ║
+║           DYPCOEI, SPPU, Pune                              ║
 ╚══════════════════════════════════════════════════════════╝
 
   MAIN MENU
